@@ -1,0 +1,12 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 390, "h": 844 },
+    { "file": "Itinerary.dc.html", "x": 470, "y": 0, "w": 390, "h": 844 },
+    { "file": "RiskOverlay.dc.html", "x": 940, "y": 0, "w": 390, "h": 844 },
+    { "file": "RiskDetail.dc.html", "x": 1410, "y": 0, "w": 390, "h": 844 }
+  ],
+  "annotations": [
+    { "id": "flow-note", "x": 0, "y": -100, "w": 500, "text": "Wildline — trip planning flow\n1) Setup  2) Blissful itinerary  3) Risk overlay switched on  4) Day risk deep dive + mitigation" }
+  ],
+  "launch": { "view": "canvas" }
+}
